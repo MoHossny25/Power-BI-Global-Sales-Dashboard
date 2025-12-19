@@ -2,7 +2,7 @@
 This project provides a deep dive into the **Global Super Store** dataset (2011-2014). The dashboard tracks performance across various dimensions to help stakeholders understand sales drivers and profit margins.
 
 ## Dashboard Screenshots
-<img width="976" height="549" alt="Screenshot 2025-12-19 044417" src="https://github.com/user-attachments/assets/137f45bc-b5c2-4092-9d33-15a6be111e25" />
+<img width="978" height="548" alt="Screenshot 2025-12-19 044527" src="https://github.com/user-attachments/assets/71cee544-298e-4972-b416-b360ed430079" />
 <img width="974" height="545" alt="Screenshot 2025-12-19 043158" src="https://github.com/user-attachments/assets/61d94e1d-ed34-4beb-ab95-34a740cdefbb" />
 <img width="975" height="538" alt="Screenshot 2025-12-19 043230" src="https://github.com/user-attachments/assets/d5d61403-27b8-4fd1-9b93-de4703956e95" />
 
